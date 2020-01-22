@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "ibeumi",
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "father-build",
