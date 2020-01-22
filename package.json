@@ -1,6 +1,8 @@
 {
   "private": true,
   "name": "ibeumi",
+  "version": "0.0.1",
+  "description": "Alec's fork of umi",
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "father-build",
